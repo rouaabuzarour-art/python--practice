@@ -1,0 +1,31 @@
+{
+    "folder": "data/sample_evidence",
+    "processes": [
+        {
+            "pid": 0,
+            "name": "System Idle Process"
+        },
+        {
+            "pid": 4,
+            "name": "System"
+        },
+        {
+            "pid": 124,
+            "name": "Registry"
+        },
+        {
+            "pid": 536,
+            "name": "smss.exe"
+        },
+        {
+            "pid": 556,
+            "name": "fontdrvhost.exe"
+        }
+    ],
+    "recent_files": [],
+    "hashes": {
+        "evidence1.txt": "75fe31aad931f46ca30e746a133fe8345cb6451a9cbecd7a6c6049d3f124bea3",
+        "evidence2.txt": "44017ecd7db6187edb7d1deefb345deaf13c7b9ea44fd11334643077c8409aad",
+        "evidence3.txt": "e487a61e25d6d65bd8a5fe79d6e16972504347f17acd51a21e72b1fe572b00a8"
+    }
+}
